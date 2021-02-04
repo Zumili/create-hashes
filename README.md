@@ -45,6 +45,9 @@ optional arguments:
   -n, --no-info             do not print info and hashes
 ```
 
+Show the available hash types
+`python create-hashes.py ?`
+
 Show charsets for plain generation  
 `python create-hashes.py -cp ?`
 
