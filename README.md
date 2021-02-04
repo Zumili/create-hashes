@@ -1,4 +1,4 @@
-# crack-hashes
+# create-hashes
 Create salted and unsalted hashes like MD5, SHA1, SHA256 and more in python.  
 This tool is for legal use only! (◔/‿\◔)  
 Don't use this tool for illegal activities!  (⋗_⋖)
